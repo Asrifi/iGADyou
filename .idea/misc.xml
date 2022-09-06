@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/backgroud_1.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/background_1.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/background_2.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/background_3.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/bar_shape.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/custom_btn.xml" value="0.1595" />
+        <entry key="app/src/main/res/drawable/custom_btn2.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/custom_btn3.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/custom_input.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/getstarted_btn.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/hamburger_menu.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/next_btn.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/profile_pic.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/search_icon.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/solid_list.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/white_circle.xml" value="0.151" />
+        <entry key="app/src/main/res/layout-anydpi/asa.xml" value="0.13934426229508196" />
+        <entry key="app/src/main/res/layout-hdpi/activity_forgot_pass.xml" value="0.13934426229508196" />
+        <entry key="app/src/main/res/layout-hdpi/activity_main.xml" value="0.15" />
+        <entry key="app/src/main/res/layout-hdpi/activity_main2.xml" value="0.16" />
+        <entry key="app/src/main/res/layout-hdpi/activity_onboarding.xml" value="0.15" />
+        <entry key="app/src/main/res/layout-hdpi/activity_sign_up.xml" value="0.15" />
+        <entry key="app/src/main/res/layout-hdpi/activity_splashscreen.xml" value="0.13934426229508196" />
+        <entry key="app/src/main/res/layout/activity_forgot_pass.xml" value="0.5296414184570313" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.13934426229508196" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.13934426229508196" />
+        <entry key="app/src/main/res/layout/activity_onboarding.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_signing_in.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splashscreen.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_welcome_page.xml" value="0.13934426229508196" />
+        <entry key="app/src/main/res/layout/custom_dialogue.xml" value="0.16156616210937502" />
+        <entry key="app/src/main/res/layout/messages_adapter_layout.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/slidelayout.xml" value="0.13934426229508196" />
+        <entry key="app/src/main/res/layout/slider_layout.xml" value="0.2" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.112" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.112" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

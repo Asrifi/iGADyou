@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="facebook_app_id">1463803044022992</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+    <string name="heading_one">Welcome</string>
+    <string name="heading_two">InsertText</string>
+    <string name="heading_three">InsertText</string>
+
+    <string name="desc_one">Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet.</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet.</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet.</string>
+</resources>
